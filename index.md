@@ -33,12 +33,11 @@ group: "navigation"
 * Object Detection and Tracking
 
 ## QR Code
-#<table width="50%">
-#	<tr>
-#		<td><img src="qrcode.png" /></td>
-#		<td>This is a readable QR code (though, you might need to enlarge it). Thanks to <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy J. Mitra</a>, <a href="http://vision.csie.ncku.edu.tw/~hkchu/">Hung-Kuo Chu</a>, and other authors of <a href="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/">Halftone QR Codes</a> paper!<br>Aug 2, 2013</td>
-#	</tr>
-#</table>
+%<table width="50%">
+%	<tr>
+%		<td><img src="qrcode.png" /></td>
+%		<td>This is a readable QR code (though, you might need to enlarge it). Thanks to <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy J. Mitra</a>, <a href="http://vision.csie.ncku.edu.tw/~hkchu/">Hung-Kuo Chu</a>, and other authors of <a href="http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/">Halftone QR Codes</a> paper!<br>Aug 2, 2013</td>
+%</table>
 
 
 
