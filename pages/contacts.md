@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Friends Map"
-description: "Friends Map"
+title: "Contacts"
+description: "Contacts"
 group: navigation
 ---
 {% include JB/setup %}

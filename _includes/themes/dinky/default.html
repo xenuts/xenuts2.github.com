@@ -23,9 +23,16 @@
 	<h1 class="header">{{ site.title }}</h1>
         <p class="header">{{ site.tagline }}</p>
         <ul>
-          {% assign pages_list = site.pages %}
+          <!-- {% assign pages_list = site.pages %}
           {% assign group = 'navigation' %}
-          {% include JB/pages_list %}
+          {% include JB/pages_list %}-->
+	<li> <a href="{{ HOME_PATH }}index.html">HOME</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/academic.html">Academic</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/cv.html">Curriculum Vitae</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/calendar.html">Calendar</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/contacts.html">Contacts</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/archive.html">Archive</a></li>
+	<li> <a href="{{ HOME_PATH }}pages/misc.html">Miscellaneous</a></li>
         </ul>
       </header>
 

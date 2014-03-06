@@ -98,7 +98,7 @@ strong {
 }
 
 ul li {
-  list-style: url("pencil6.png") inside; 
+  list-style: url("../images/pencil6.png") inside; 
   padding-left: 25px;
 }
 

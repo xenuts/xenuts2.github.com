@@ -1,7 +1,0 @@
-
-  .hovershadow:hover{
-    box-shadow: 10 10 15px #333;
-    z-index: 1000;
-  }
-  
-  
