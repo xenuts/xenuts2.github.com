@@ -9,22 +9,18 @@ group: navigation
 ## BIOGRAPHICAL
 ![Photo](xzzhou.jpg)<br />
 <font size=4>__Xiangzeng ZHOU__</font>, _Ph.D Candidate_<br />
-• __Affiliation__: School of Computer Science, Northwestern Polytechnical University<br />
-• __Address__: No. 127, West Youyi Road, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China, 710072<br />
-• __Homepage__: [xenuts.github.com](xenuts.github.com)<br />
-• __GitHub__: [github.com/xenuts](github.com/xenuts)<br />
-• __Email__: [xenuts@gamil.com](mailto:xenuts@gamil.com)
+• Affiliation: School of Computer Science, Northwestern Polytechnical University<br />
+• Address: No. 127, West Youyi Road, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China, 710072<br />
+• Homepage: [xenuts.github.com](xenuts.github.com)   • GitHub: [github.com/xenuts](github.com/xenuts)   • Email: [xenuts@gamil.com](mailto:xenuts@gamil.com)
 
-You may find a print-friendly version from [here](resume.pdf).
+You may find a print-friendly pdf version from [here](resume.pdf).
 
 ## INTERESTS
-_object detection_, _object tracking_, _pattern recognition_, _machine learning_
+Object Detection, Object Tracking, Pattern Recognition, Machine Learning
 
 ## EDUCATION
-• Jul. 2010 - Present __Ph.D.__<br />
-_COMPUTER SCIENCE & TECHNOLOGY_ _Northwestern Polytechnical University_<br />
-• Sept. 2006 - Jul. 2010 __B.S.__<br />
-_COMPUTER SCIENCE & TECHNOLOGY_ _Northwestern Polytechnical University_<br />
+• Jul. 2010 - Present    | __Ph.D.__ | _COMPUTER SCIENCE AND TECHNOLOGY_ | Northwestern Polytechnical University<br />
+• Sept. 2006 - Jul. 2010 | __B.S.__ | _COMPUTER SCIENCE AND TECHNOLOGY_ | Northwestern Polytechnical University<br />
 
 ## RESEARCH EXPERIENCE
 * [2011.5 - 2011.12] __Towards a Queue-Aware ATM: Monitoring and Managing Queues in front of ATMs__<br />
@@ -58,138 +54,48 @@ C | Bash | Python | English | Matlab | Emacs | OpenCV | Git | Linux | LaTeX
 • Oct. 26 - 29, 2010 | __Invited Demonstration__ for UIC/ATC 2010
 
 ## PUBLICATION
-### 2014
-* __<font color=blue>"An Ensemble of Deep Neural Networks for Object Tracking"</font>__, 
+### ❒ 2014
+* <font color=blue>"An Ensemble of Deep Neural Networks for Object Tracking"</font>, 
 ___Xiangzeng Zhou__, Lei Xie, Peng Zhang and Yanning Zhang_, 
 IEEE International Conference on Image Processing (ICIP '14), Oct. 27-30, Paris, Italy. _(submitted)_
 
-* __<font color=blue>"Tennis Ball Tracking using A Two-Layered Data Association Approach"</font>__, 
+* <font color=blue>"Tennis Ball Tracking using A Two-Layered Data Association Approach"</font>, 
 ___Xiangzeng Zhou__, Lei Xie, Qiang Huang and Stephen Cox_, 
 The IEEE trans. on Multimedia (TMM).
 _(submitted)_
 
-* __<font color=blue>"Unsupervised Broadcast News Story Segmentation Using Distance Dependent Chinese Restaurant Processes"</font>__, 
+* <font color=blue>"Unsupervised Broadcast News Story Segmentation Using Distance Dependent Chinese Restaurant Processes"</font>, 
 _Chao Yang, Lei Xie and __Xiangzeng Zhou___, 
 The 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP '14), May 4-9, 2014, Florence, Italy. 
 
-### 2013
-* __<font color=blue>"A Two Layered Data Association Approach For Tennis Ball Tracking"</font>__, 
+### ❒ 2013
+* <font color=blue>"A Two Layered Data Association Approach For Tennis Ball Tracking"</font>, 
 ___Xiangzeng Zhou__, Qiang Huang, Lei Xie, and Stephen J. Cox_, 
 The 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP '13), May 26-31, 2013, Vancouver, Canada. 
 [<a href="publication/Zhou-2013-A.bib">bibtex</a>] 
 [<a href="publication/Zhou-2013-A.pdf">pdf</a>]
 
-### 2012
-* __<font color=blue>"Detection of ball hits in a tennis game using audio and visual information"</font>__,
+### ❒ 2012
+* <font color=blue>"Detection of ball hits in a tennis game using audio and visual information"</font>,
 _Qiang Huang, Stephen Cox, __Xiangzeng Zhou__, and Lei Xie_
 The Asia-Pacific Signal and Information Processing Association (APSIPA '12), 2012, Xi'an, China.
 [<a href="publication/Huang-2012-Detection.bib">bibtex</a>]
 [<a href="publication/Huang-2012-Detection.pdf">pdf</a>]
 
-### 2011
-* __<font color=blue>"基于多置信特征融合语音识别拒识算法的设计与实现"</font>__,
+### ❒ 2011
+* <font color=blue>"基于多置信特征融合语音识别拒识算法的设计与实现"</font>,
 _牛建伟, 谢磊, 路晓明, __周祥增__, 张艳宁_
 第十一届全国人机语音通讯学术会议, 2011, 西安, 中国.
 
-* __<font color=blue>"Real-time speech-driven virtual avatar"</font>__,
+* <font color=blue>"Real-time speech-driven virtual avatar"</font>,
 _Bingfeng Li, __Xiangzeng Zhou___
 The 11st National Conference on Man-Machine Speech Communication (NCMMSC '11), 2011. Xi’an China.
 
-### 2010
-* __<font color=blue>"Speech and Auditory Interfaces for Ubiquitous, Immersive and Personalized Applications"</font>__,
+### ❒ 2010
+* <font color=blue>"Speech and Auditory Interfaces for Ubiquitous, Immersive and Personalized Applications"</font>,
 _Lei Xie, Wenhuai Zhao, __Xiangzeng Zhou__, Xiaohai Tian, Bingfeng Li, Naicai Sun, Yali Zhao, Yanning Zhang_
 Ubiquitous Intelligence Computing and 7th International Conference on Autonomic Trusted Computing (UIC/ATC), October 26-29, 2010, China.
 [<a href="publication/Xie-2010-Speech.bib">bibtex</a>]
 [<a href="publication/Xie-2010-Speech.pdf">pdf</a>]
 
 
-<!-- ## EDUCATION
-* __Sept.2006 – July.2010 (Bachelor)__ </br>
-School of Computer Science, 
-Northwestern Polytechnical University (NWPU), Xi’an, China.
-
-
-* __Sept.2010 – present (Pursuing PhD degree)__ </br>
-Shaanxi Provincial Key Laboratory of Speech and Image Information Processing (SAIIP) Lab, 
-School of Computer Science,
-Northwestern Polytechnical University (NWPU), Xi’an, China.
-
-- - -
-
-## RESEARCH EXPERIENCE
-<table>
-<tr>
-	<td width="20%"><img src="QA-ATM.png" width="200"/></td>
-	<td>
-		<b>Towards a Queue-Aware ATM: Monitoring and Managing Queues in front of ATMs</b></br>
-		<p><font face="verdana" size="2">In order to monitoring queues in front of ATMs, apply stereo camera real-time object tracking approach. With the aid of camera’s real-time tracking, develop a simple application system which can give customer a suggested queue and estimated queuing time.</font></p>
-	</td>
-</tr>
-
-<tr>
-	<td width="20%"><img src="BestKnow.png" width="200"/></td>
-	<td>
-		<b>Keyword Spotting based Real-time Dialog System</b></br>
-		<p><font face="verdana" size="2">Make a question-set limited Dialog System implemented by Keyword Spotting approach with improved Online Garbage Model. My main task is proposing a improved method based on Online Garbage Keyword Spotting Model.</font></p>
-	</td>
-</tr>
-
-<tr>
-	<td width="20%"><img src="KeywordSpotting.png" width="200"/></td>
-	<td>
-		<b>Keyword Spotting Tool</b></br>
-		<p><font face="verdana" size="2">Make a Keyword Spotting Tool which user can dynamically add or remove keywords by hand.</font></p>
-	</td>
-</tr>
-</table>
-
-- - -
-
-## ACTIVITIES
-<table width="100%" border="0">
-<tr>
-<td><b>Poster Presentation</b></td>
-<td>Mar. 26 - 31, 2013</td>
-<td><font face="verdana" size="2">The International Conference on Acoustics, Speech, and Signal Processing (ICASSP '13), Vancouver, Canada.</font></td>
-</tr>
-
-<tr>
-<td><b>Academic Visitor</b></td>
-<td>Mar., 2012 - Step., 2012</td>
-<td><font face="verdana" size="2">School of Computing Sciences University of East Anglia (UEA), Norwich, U.K.</font></td>
-</tr>
-
-<tr>
-<td><b>Conf. Organizing Committee Member</b></td>
-<td>Apr., 2011 - Nov., 2011</td>
-<td><font face="verdana" size="2">APSIPA Annual Summit and Conference 2011 (APSIPA ASC 2011), Xi'an, China.</font></td>
-</tr>
-
-<tr>
-<td><b>Oral Presentation</b></td>
-<td>Nov. 23 - 25, 2010</td>
-<td><font face="verdana" size="2">the International Conference on Audio, Language and Image Processing (ICALIP), Shanghai, China.</font></td>
-</tr>
-
-<tr>
-<td><b>Invited Demonstration</b></td>
-<td>Oct. 26 - 29, 2010</td>
-<td><font face="verdana" size="2">the 7th International Conference on Ubiquitous Intelligence and Computing (UIC), Xi'an, China.</font></td>
-</tr>
-
-<tr>
-<td><b>Intern</b></td>
-<td>Jul., 2009</td>
-<td><font face="verdana" size="2">China Pacific Insurance (Group) Co., Ltd. Xi’an Subsidiary, Xi'an, China.</font></td>
-</tr>
-
-<tr>
-<td width="200"><b>Intern</b></td>
-<td width="150">Jun., 2009</td>
-<td><font face="verdana" size="2">KunShan (Suzhou) Ambow Software Training Base, Suzhou, China.</font></td>
-</tr>
-</table>
-
-- - -
-
---> 

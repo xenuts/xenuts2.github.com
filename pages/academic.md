@@ -6,59 +6,64 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### [Search]
-[Google](http://www.google.com)<br>
-[百Google度](http://www.baigoogledu.com)<br>
-[Google Scholar](http://scholar.google.com/)<br>
-[IEEExplore](http://ieeexplore.ieee.org/Xplore/home.jsp)<br>
-[MS Academic Search](http://academic.research.microsoft.com/Default.aspx)<br>
-[ACM PKU](http://acm.lib.tsinghua.edu.cn/acm/)<br>
-[Wiley Online](http://onlinelibrary.wiley.com/)<br>
-[ScienceDirect](http://www.sciencedirect.com/)<br>
-[DBLP](http://www.informatik.uni-trier.de/~ley/db/) (Computer Science Bibliography)<br>
-[MedSci](http://www.medsci.cn/sciif.asp?action=search) (影响因子)<br>
-[SCI](http://www.thomsonscientific.com/cgi-bin/jrnlst/jlresults.cgi?PC=K) (Science Citation Index)<br>
-[SCIE](http://www.thomsonscientific.com/cgi-bin/jrnlst/jlresults.cgi?PC=D) (Science Citation Index Expanded)<br>
-[EI](http://www.engineeringvillage.com/search/quick.url)<br>
-[arXiv.org](http://arxiv.org/)<br>
-[Computer Science Bibliographies](http://liinwww.ira.uka.de/bibliography/index.html)<br>
-[ProQuest](http://search.proquest.com/index) (国外高质量学位论文全文的数据库)<br>
-[国家自然科学基金委员会](http://www.nsfc.gov.cn/Portal0/default152.htm)<br>
-[CALIS高校学位论文库](http://etd.calis.edu.cn/)<br>
+## [Search]
+[Google](http://www.google.com)
+ | [百Google度](http://www.baigoogledu.com)
+ | [Google Scholar](http://scholar.google.com/)
+ | [IEEExplore](http://ieeexplore.ieee.org/Xplore/home.jsp)
+ | [MS Academic Search](http://academic.research.microsoft.com/Default.aspx)
+ | [ACM PKU](http://acm.lib.tsinghua.edu.cn/acm/)
+ | [Wiley Online](http://onlinelibrary.wiley.com/)
+ | [ScienceDirect](http://www.sciencedirect.com/)
+ | [DBLP](http://www.informatik.uni-trier.de/~ley/db/) (Computer Science Bibliography)
+ | [MedSci](http://www.medsci.cn/sciif.asp?action=search) (影响因子)
+ | [SCI](http://www.thomsonscientific.com/cgi-bin/jrnlst/jlresults.cgi?PC=K) (Science Citation Index)
+ | [SCIE](http://www.thomsonscientific.com/cgi-bin/jrnlst/jlresults.cgi?PC=D) (Science Citation Index Expanded)
+ | [EI](http://www.engineeringvillage.com/search/quick.url)
+ | [arXiv.org](http://arxiv.org/)
+ | [Computer Science Bibliographies](http://liinwww.ira.uka.de/bibliography/index.html)
+ | [ProQuest](http://search.proquest.com/index) (国外高质量学位论文全文的数据库)
+ | [国家自然科学基金委员会](http://www.nsfc.gov.cn/Portal0/default152.htm)
+ | [CALIS高校学位论文库](http://etd.calis.edu.cn/)
 
-### [Academics]
+## [Academics]
 [WikiCFP](http://www.wikicfp.com/cfp/)
-[Citeulike](http://www.citeulike.org/home)
-[NOW](http://www.nowpublishers.com/)
-[BibSonomy](http://www.bibsonomy.org/)
-#### CV
+ | [Citeulike](http://www.citeulike.org/home)
+ | [NOW](http://www.nowpublishers.com/)
+ | [BibSonomy](http://www.bibsonomy.org/)
+
+### CV
 [CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm)
-[CVPapers](http://www.cvpapers.com/index.html)
+ | [CVPapers](http://www.cvpapers.com/index.html)
 
-### [English]
+## [English]
 [沪江网](http://www.hujiang.com/en/#tabs_mainhearder)
-#### 词汇
+
+### 词汇
 [01-四级核心词汇](http://cichang.hujiang.com/book/10445)
-[02-六级核心词汇](http://cichang.hujiang.com/book/10447)
-[03-托福核心词汇](http://cichang.hujiang.com/book/10567)
-#### 听力
+ | [02-六级核心词汇](http://cichang.hujiang.com/book/10447)
+ | [03-托福核心词汇](http://cichang.hujiang.com/book/10567)
+
+### 听力
 [01-慢速美音](http://app.hujiang.com/listen/mansu/?date=2013-02-26)
-[02-标准美音](http://app.hujiang.com/listen/biaozhun/)
-#### 口语
+ | [02-标准美音](http://app.hujiang.com/listen/biaozhun/)
 
-#### 阅读
+### 口语
 
-### [Techniques]
-#### Python
-[PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)<br>
-#### DeepLearning
+### 阅读
+
+## [Techniques]
+### Python
+[PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)
+
+### DeepLearning
 [Deep Learning](http://deeplearning.net/)([tutorial](http://deeplearning.net/tutorial/contents.html), [Theano](http://deeplearning.net/software/theano/))<br>
 [Deep Belief Networks资料汇总](http://fantasticinblur.iteye.com/blog/1131640)<br>
 [Deep Learning Methods for Vision - CVPR 2012 Tutorial](http://cs.nyu.edu/~fergus/tutorials/deep_learning_cvpr12/)<br>
 [LISA](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public)<br>
 [A Brief Introduction to Neural Networks - D. Kriesel](http://www.dkriesel.com/en/science/neural_networks)<br>
 
-#### MachineLearning
+### MachineLearning
 [Machine Learning Surveys](http://www.mlsurveys.com/)<br>
 [MALLET](http://mallet.cs.umass.edu/index.php) - a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.<br>
 [STPRTool](http://cmp.felk.cvut.cz/cmp/software/stprtool/) - Statistical Pattern Recognition Toolbox for Matlab.<br>
@@ -89,30 +94,4 @@ int main(int argc, char **argv)
 	return 0;
 }
 {% endhighlight %}
-{% highlight c %}
-#include <stdio.h>
-int main(int argc, char **argv)
-{
-	printf("Hello, World!\n");
-	return 0;
-}
-{% endhighlight %}
-{% highlight tex %}
-\documentclass{article}
-\usepackage[koi8-r]{inputenc}
-\hoffset=0pt
-\voffset=.3em
-\tolerance=400
-\newcommand{\eTiX}{\TeX}
-\begin{document}
-\section*{Highlight.js}
-\begin{table}[c|c]
-$\frac 12\, + \, \frac 1{x^3}\text{Hello \! world}$ & \textbf{Goodbye\~ world} \\\eTiX $ \pi=400 $
-\end{table}
-Ch\'erie, \c{c}a ne me pla\^\i t pas! % comment \b
-G\"otterd\"ammerung~45\%=34.
-$$
-    \int\limits_{0}^{\pi}\frac{4}{x-7}=3
-$$
-\end{document}
-{% endhighlight %}
+
