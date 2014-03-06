@@ -1,0 +1,38 @@
+<!DOCTYPE html >
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <!-- link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold,italic" type="text/css" /-->
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen,projection" />
+  </head>
+  
+  <body>
+
+    <div id="wrapper">
+      <div id="innerwrapper">
+
+	<div id="header">
+      <div id="header-text">
+	    Hugo Larochelle
+	  <!-- <h1 id="header-right"></h1>-->
+	    <ul id="nav">	      
+              {% assign pages_list = site.pages %}
+              {% assign group = 'navigation' %}
+              {% include JB/pages_list %}	      	      
+	    </ul>
+        </div>
+	  </div>
+	  
+	  <div id="contentnobars">
+		 {{ content }}
+	  </div>
+	  
+	  <div id="footer">
+	  </div>
+	  
+	</div>
+      </div>
+    </body>
+  </html>
+

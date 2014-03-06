@@ -1,0 +1,7 @@
+@INPROCEEDINGS{Huang:2012:6411936, 
+author={Qiang Huang and Cox, S. and Xiangzeng Zhou and Lei Xie}, 
+booktitle={Signal Information Processing Association Annual Summit and Conference (APSIPA ASC), 2012 Asia-Pacific}, 
+title={Detection of ball hits in a tennis game using audio and visual information}, 
+year={2012}, 
+pages={1-10}, 
+keywords={regression analysis;video signal processing;Gaussian mixture models;acoustic mismatch;audio information;ball hits detection;camera calibration;complex backgrounds;linear regression;moving objects;noise;probabilistic framework;tennis game;visual information;Acoustics;Cameras;Games;Noise;Trajectory;Visualization;Viterbi algorithm},}
