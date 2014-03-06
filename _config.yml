@@ -9,7 +9,7 @@ markdown: rdiscount
 # so be sure to set them if your theme uses them.
 #
 title : Zen Nuts
-tagline: Site Tagline
+tagline: Menu
 author :
   name : Xiangzeng Zhou
   email : xenuts@gmail.com

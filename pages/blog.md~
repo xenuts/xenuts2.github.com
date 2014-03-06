@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Blog"
-description: "Blog"
+title: "Academic"
+description: "Academic"
 group: navigation
 ---
 {% include JB/setup %}
@@ -58,23 +58,23 @@ group: navigation
 
 ### [Techniques]
 #### Python
-[PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)
+[PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)<br>
 #### DeepLearning
-[Deep Learning](http://deeplearning.net/)([tutorial](http://deeplearning.net/tutorial/contents.html), [Theano](http://deeplearning.net/software/theano/))
-[Deep Belief Networks资料汇总](http://fantasticinblur.iteye.com/blog/1131640)
-[Deep Learning Methods for Vision - CVPR 2012 Tutorial](http://cs.nyu.edu/~fergus/tutorials/deep_learning_cvpr12/)
-[LISA](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public)
-[A Brief Introduction to Neural Networks - D. Kriesel](http://www.dkriesel.com/en/science/neural_networks)
+[Deep Learning](http://deeplearning.net/)([tutorial](http://deeplearning.net/tutorial/contents.html), [Theano](http://deeplearning.net/software/theano/))<br>
+[Deep Belief Networks资料汇总](http://fantasticinblur.iteye.com/blog/1131640)<br>
+[Deep Learning Methods for Vision - CVPR 2012 Tutorial](http://cs.nyu.edu/~fergus/tutorials/deep_learning_cvpr12/)<br>
+[LISA](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public)<br>
+[A Brief Introduction to Neural Networks - D. Kriesel](http://www.dkriesel.com/en/science/neural_networks)<br>
 
 #### MachineLearning
-[Machine Learning Surveys](http://www.mlsurveys.com/)
-[MALLET](http://mallet.cs.umass.edu/index.php) - a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
-[STPRTool](http://cmp.felk.cvut.cz/cmp/software/stprtool/) - Statistical Pattern Recognition Toolbox for Matlab.
-[Spider](http://people.kyb.tuebingen.mpg.de/spider/) - a complete object orientated environment for machine learning in Matlab.
-[Maximum Entropy Modeling Toolkit for Python and C++](http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html)
-[Shogun](http://www.shogun-toolbox.org/page/home/) - A Large Scale Machine Learning Toolbox.
-[MILK](https://github.com/luispedro/milk) - Machine Learning Toolkits in Python.
-[国际流行开源机器学习和模式识别工具](http://blog.csdn.net/tangyongkang/article/details/6143031)
+[Machine Learning Surveys](http://www.mlsurveys.com/)<br>
+[MALLET](http://mallet.cs.umass.edu/index.php) - a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.<br>
+[STPRTool](http://cmp.felk.cvut.cz/cmp/software/stprtool/) - Statistical Pattern Recognition Toolbox for Matlab.<br>
+[Spider](http://people.kyb.tuebingen.mpg.de/spider/) - a complete object orientated environment for machine learning in Matlab.<br>
+[Maximum Entropy Modeling Toolkit for Python and C++](http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html)<br>
+[Shogun](http://www.shogun-toolbox.org/page/home/) - A Large Scale Machine Learning Toolbox.<br>
+[MILK](https://github.com/luispedro/milk) - Machine Learning Toolkits in Python.<br>
+[国际流行开源机器学习和模式识别工具](http://blog.csdn.net/tangyongkang/article/details/6143031)<br>
 
 
 ## Refs

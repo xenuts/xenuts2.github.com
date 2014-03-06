@@ -1,12 +1,109 @@
 ---
 layout: page
-title: "CV"
+title: "Curriculum Vitae"
 description: "Curriculum Vitae"
 group: navigation
 ---
 {% include JB/setup %}
 
+## BIOGRAPHICAL
+![Photo](xzzhou.jpg)
+<font size=4>__Xiangzeng ZHOU__</font>, _Ph.D Candidate_<br />
+• __Affiliation__: School of Computer Science, Northwestern Polytechnical University<br />
+• __Address__: No. 127, West Youyi Road, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China, 710072<br />
+• __Homepage__: [xenuts.github.com](xenuts.github.com)<br />
+• __GitHub__: [github.com/xenuts](github.com/xenuts)<br />
+• __Email__: [xenuts@gamil.com](mailto:xenuts@gamil.com)
+
+You may find a print-friendly version from [here](resume.pdf).
+
+## INTERESTS
+_object detection_, _object tracking_, _pattern recognition_, _machine learning_
+
 ## EDUCATION
+• Jul. 2010 - Present __Ph.D.__<br />
+_COMPUTER SCIENCE & TECHNOLOGY_ _Northwestern Polytechnical University_<br />
+• Sept. 2006 - Jul. 2010 __B.S.__<br />
+_COMPUTER SCIENCE & TECHNOLOGY_ _Northwestern Polytechnical University_<br />
+
+## RESEARCH EXPERIENCE
+* [2011.5 - 2011.12] __Towards a Queue-Aware ATM: Monitoring and Managing Queues in front of ATMs__<br />
+In order to monitoring queues in front of ATMs, apply stereo camera real-time object tracking approach. With the aid of camera’s real-time tracking, develop a simple application system which can give customer a suggested queue and estimated queuing time.
+
+* [2010.9] __Keyword Spotting based Real-time Dialog System__<br />
+Make a question-set limited Dialog System implemented by Keyword Spotting approach with improved Online Garbage Model. My main task is proposing a improved method based on Online Garbage Keyword Spotting Model.
+
+* [2010.9] __Keyword Spotting Tool__<br />
+Make a Keyword Spotting Tool which user can dynamically add or remove keywords by hand.
+
+## SKILLs & LANGUAGES
+C | Bash | Python | English | Matlab | Emacs | OpenCV | Git | Linux | LaTeX
+
+## HONORS/AWARDS
+• 2010 | First Prize Scholarship of Northwestern Polytechnical University<br />
+• 2009 | National Endeavor Scholarship<br />
+• 2009 | First Prize of C Programming Contest of Northwestern Polytechnical University<br />
+• 2009 | First Prize Scholarship of Northwestern Polytechnical University<br />
+• 2008 | National Endeavor Scholarship<br />
+• 2008 | First Prize Scholarship of Northwestern Polytechnical University<br />
+• 2007 | Second Prize of ACM Programming Contest of Northwestern Polytechnical University<br />
+• 2007 | First Prize Scholarship of Northwestern Polytechnical University<br />
+• 2007 | Third Prize of Mathematical Modeling Contest of Northwestern Polytechnical University
+
+## ACTIVITIES
+• May 30, 2013 | __Poster Presentation__ on ICASSP 2013<br />
+• Mar., 2012 - Sept., 2012 | __Visiting Researche__r at University of East Anglia, Norwich, U.K.<br />
+• Apr., 2011 - Oct., 2011 | __Conference Organizing Committee Member__ for APSIPA ASC 2011<br />
+• Nov. 23 - 25, 2010 | __Oral Presentation__ on ICALIP 2010<br />
+• Oct. 26 - 29, 2010 | __Invited Demonstration__ for UIC/ATC 2010
+
+## PUBLICATION
+### 2014
+* __<font color=blue>"An Ensemble of Deep Neural Networks for Object Tracking"</font>__, 
+___Xiangzeng Zhou__, Lei Xie, Peng Zhang and Yanning Zhang_, 
+IEEE International Conference on Image Processing (ICIP '14), Oct. 27-30, Paris, Italy. _(submitted)_
+
+* __<font color=blue>"Tennis Ball Tracking using A Two-Layered Data Association Approach"</font>__, 
+___Xiangzeng Zhou__, Lei Xie, Qiang Huang and Stephen Cox_, 
+The IEEE trans. on Multimedia (TMM).
+_(submitted)_
+
+* __<font color=blue>"Unsupervised Broadcast News Story Segmentation Using Distance Dependent Chinese Restaurant Processes"</font>__, 
+_Chao Yang, Lei Xie and __Xiangzeng Zhou___, 
+The 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP '14), May 4-9, 2014, Florence, Italy. 
+
+### 2013
+* __<font color=blue>"A Two Layered Data Association Approach For Tennis Ball Tracking"</font>__, 
+___Xiangzeng Zhou__, Qiang Huang, Lei Xie, and Stephen J. Cox_, 
+The 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP '13), May 26-31, 2013, Vancouver, Canada. 
+[<a href="publication/Zhou-2013-A.bib">bibtex</a>] 
+[<a href="publication/Zhou-2013-A.pdf">pdf</a>]
+
+### 2012
+* __<font color=blue>"Detection of ball hits in a tennis game using audio and visual information"</font>__,
+_Qiang Huang, Stephen Cox, __Xiangzeng Zhou__, and Lei Xie_
+The Asia-Pacific Signal and Information Processing Association (APSIPA '12), 2012, Xi'an, China.
+[<a href="publication/Huang-2012-Detection.bib">bibtex</a>]
+[<a href="publication/Huang-2012-Detection.pdf">pdf</a>]
+
+### 2011
+* __<font color=blue>"基于多置信特征融合语音识别拒识算法的设计与实现"</font>__,
+_牛建伟, 谢磊, 路晓明, __周祥增__, 张艳宁_
+第十一届全国人机语音通讯学术会议, 2011, 西安, 中国.
+
+* __<font color=blue>"Real-time speech-driven virtual avatar"</font>__,
+_Bingfeng Li, __Xiangzeng Zhou___
+The 11st National Conference on Man-Machine Speech Communication (NCMMSC '11), 2011. Xi’an China.
+
+### 2010
+* __<font color=blue>"Speech and Auditory Interfaces for Ubiquitous, Immersive and Personalized Applications"</font>__,
+_Lei Xie, Wenhuai Zhao, __Xiangzeng Zhou__, Xiaohai Tian, Bingfeng Li, Naicai Sun, Yali Zhao, Yanning Zhang_
+Ubiquitous Intelligence Computing and 7th International Conference on Autonomic Trusted Computing (UIC/ATC), October 26-29, 2010, China.
+[<a href="publication/Xie-2010-Speech.bib">bibtex</a>]
+[<a href="publication/Xie-2010-Speech.pdf">pdf</a>]
+
+
+<!-- ## EDUCATION
 * __Sept.2006 – July.2010 (Bachelor)__ </br>
 School of Computer Science, 
 Northwestern Polytechnical University (NWPU), Xi’an, China.
@@ -53,46 +150,46 @@ Northwestern Polytechnical University (NWPU), Xi’an, China.
 <tr>
 <td><b>Poster Presentation</b></td>
 <td>Mar. 26 - 31, 2013</td>
-<td>The International Conference on Acoustics, Speech, and Signal Processing (ICASSP '13), Vancouver, Canada.</td>
+<td><font face="verdana" size="2">The International Conference on Acoustics, Speech, and Signal Processing (ICASSP '13), Vancouver, Canada.</font></td>
 </tr>
 
 <tr>
 <td><b>Academic Visitor</b></td>
 <td>Mar., 2012 - Step., 2012</td>
-<td>School of Computing Sciences University of East Anglia (UEA), Norwich, U.K.</td>
+<td><font face="verdana" size="2">School of Computing Sciences University of East Anglia (UEA), Norwich, U.K.</font></td>
 </tr>
 
 <tr>
 <td><b>Conf. Organizing Committee Member</b></td>
 <td>Apr., 2011 - Nov., 2011</td>
-<td>APSIPA Annual Summit and Conference 2011 (APSIPA ASC 2011), Xi'an, China.</td>
+<td><font face="verdana" size="2">APSIPA Annual Summit and Conference 2011 (APSIPA ASC 2011), Xi'an, China.</font></td>
 </tr>
 
 <tr>
 <td><b>Oral Presentation</b></td>
 <td>Nov. 23 - 25, 2010</td>
-<td>the International Conference on Audio, Language and Image Processing (ICALIP), Shanghai, China.</td>
+<td><font face="verdana" size="2">the International Conference on Audio, Language and Image Processing (ICALIP), Shanghai, China.</font></td>
 </tr>
 
 <tr>
 <td><b>Invited Demonstration</b></td>
 <td>Oct. 26 - 29, 2010</td>
-<td>the 7th International Conference on Ubiquitous Intelligence and Computing (UIC), Xi'an, China.</td>
+<td><font face="verdana" size="2">the 7th International Conference on Ubiquitous Intelligence and Computing (UIC), Xi'an, China.</font></td>
 </tr>
 
 <tr>
 <td><b>Intern</b></td>
 <td>Jul., 2009</td>
-<td>China Pacific Insurance (Group) Co., Ltd. Xi’an Subsidiary, Xi'an, China.</td>
+<td><font face="verdana" size="2">China Pacific Insurance (Group) Co., Ltd. Xi’an Subsidiary, Xi'an, China.</font></td>
 </tr>
 
 <tr>
 <td width="200"><b>Intern</b></td>
 <td width="150">Jun., 2009</td>
-<td>KunShan (Suzhou) Ambow Software Training Base, Suzhou, China.</td>
+<td><font face="verdana" size="2">KunShan (Suzhou) Ambow Software Training Base, Suzhou, China.</font></td>
 </tr>
 </table>
 
 - - -
 
-
+--> 

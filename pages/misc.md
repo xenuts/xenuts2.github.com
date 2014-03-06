@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Misc"
-description: "Misc"
+title: "Miscellaneous"
+description: "Miscellaneous"
 group: navigation
 ---
 {% include JB/setup %}
