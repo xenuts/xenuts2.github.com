@@ -2,7 +2,7 @@
 layout: post
 title: "搭建Docear+Zotero+Chrome协作系统"
 description: "Working with Docear + Zotero + Chrome"
-category: 
+category:
 tags: [Docear, Zotero]
 ---
 {% include JB/setup %}
@@ -12,7 +12,7 @@ Docear和Zotero都是可以跟远端同步备份，所以需要各自注册一�
 
 ### 1. 安装Zotero及其相关插件
 #### A. 安装Zotero
-在https://www.zotero.org/download/可以在不同平台下的不同版本。因为我要和Chrome结合使用，因此选择Zotero Standalone和Chrome插件。Zotero Standalone解压即可，启动文件是run_zotero.sh（可能需要chmod +x），为了方便启动可以使用ln -s指令为启动文件在桌面上建立一个符号链接。Zotero的chrome插件会自动跳转到google的appstore进行安装，这样在使用chrome浏览一些例如google scholar等学术搜索时，就会在地址栏的右边显示出可以使用zotero的标志，可以将你感兴趣的文献导入到zotero中，so 方便啊！！！
+在https://www.zotero.org/download/可以在不同平台下的不同版本。因为我要和Chrome结合使用，因此选择Zotero Standalone和Chrome插件。Zotero Standalone解压即可，启动文件是run_zotero.sh（可能需要chmod +x），为了方便启动可以使用ln -s指令为启动文件在桌面上建立一个符号链接。Zotero的chrome插件会自动跳转到google的appstore进行安装，这样在使用chrome浏览一些例如google scholar等学术搜索时，就会在地址栏的右边显示出可以使用zotero的标志，可以将你感兴趣的文献导入到zotero中，so方便啊！！！
 
 #### B. 配置Zotero
 选择左上角的Gear Icon进入Perferences：

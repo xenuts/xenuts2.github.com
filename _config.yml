@@ -4,7 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
-markdown: rdiscount
+markdown: kramdown 
+# rdiscount和默认的markdown在解析带公式文件的时候都会出现一些问题
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #

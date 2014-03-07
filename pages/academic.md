@@ -86,6 +86,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 [Jekyll - Syntax highlighting](http://truongtx.me/2012/12/28/jekyll-bootstrap-syntax-highlighting/)<br>
 
 ## ToDo List
+
+#### Code Demo
 {% highlight c %}
 #include <stdio.h>
 int main(int argc, char **argv)
@@ -95,3 +97,32 @@ int main(int argc, char **argv)
 }
 {% endhighlight %}
 
+#### Math Formulation Demo
+$$a^2 + b^2 = c^2$$
+
+在default.html加上下面的代码即可
+{% highlight html %}
+<script type="text/javascript"
+ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+{% endhighlight %}
+
+#### Jekyll常用命令
+{% highlight bash %}
+# 启动Jekyll
+$ jekyll serve
+
+# 创建第一篇博文
+$ rake post title="Hello World"
+
+# 根目录下创建页面
+$ rake page name="about.md"
+
+# 自定义目录下创建页面
+$ rake page name="pages/about.md"
+
+# 创建类似./pages/about/index.html目录结构的页面
+$ rake page name="pages/about"
+
+
+{% endhighlight %}
