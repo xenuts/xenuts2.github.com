@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+
+
 ## [Search]
 [Google](http://www.google.com)
  | [百Google度](http://www.baigoogledu.com)
@@ -92,8 +94,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 #include <stdio.h>
 int main(int argc, char **argv)
 {
-	printf("Hello, World!\n");
-	return 0;
+    printf("Hello, World!\n");
+    return 0;
 }
 {% endhighlight %}
 

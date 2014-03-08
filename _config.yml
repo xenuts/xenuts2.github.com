@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+pygments: true # 语法高亮
 markdown: kramdown 
 # rdiscount和默认的markdown在解析带公式文件的时候都会出现一些问题
 
