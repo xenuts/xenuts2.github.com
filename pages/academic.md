@@ -55,6 +55,7 @@ group: navigation
 ### 阅读
 
 ## [Techniques]
+
 ### Python
 [PyTech](http://hyry.dip.jp/tech/slice/slice.html/24)
 
@@ -126,5 +127,14 @@ $ rake page name="pages/about.md"
 # 创建类似./pages/about/index.html目录结构的页面
 $ rake page name="pages/about"
 
-
 {% endhighlight %}
+
+#### kramdown支持表格
+
+表头      | 列1        | 列 2       |  列3        | 列4
+----------|---------- -|:-----------|------------:|:--------------:
+行1       | 内容       | 内容左对齐 | 内容右对齐  | 内容中间对齐
+行2       | 内容       | 内容左对齐 | 内容右对齐  | 内容中间对齐
+行3       | 内容       | 内容左对齐 | 内容右对齐  | 内容中间对齐
+行4       | 内容       | 内容左对齐 | 内容右对齐  | 内容中间对齐
+

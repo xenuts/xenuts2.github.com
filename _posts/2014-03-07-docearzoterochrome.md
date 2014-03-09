@@ -26,7 +26,7 @@ Docear和Zotero都是可以跟远端同步备份，所以需要各自注册一�
 Autozotbib是Zotero的一个插件，可以自动地将Zetoro的添加/删除/更新等操作实时的反映到指定的导出文件（使用firefox的可以使用类似的插件Zotero Autoexport）。从网站[http://www.rtwilson.com/academic/autozotbib](http://www.rtwilson.com/academic/autozotbib)上可以下载一个xpi格式的文件，然后使用Zotero->Tools->Add-ons导入该文件进行安装，重启Zotero即可。重启后，在Zotero的Gear Icon下会多出两个AutoZotib的选项，进入AutoZotBib Perferences设置需要导出的bib文件的路径和位置，最好放在Zotero的Base Directory中方便管理，这个实时更新的bib文件就可以被Docear使用，参看下文。
 
 #### D. 安装ZotFile
-[ZotFile](http://zotfile.com/)是Zotero的一个插件，用于管理附件，功能包括：自动重命名，同步，pdf笔记导出等等。安装方式同上，安装完毕后在Gear Icon下就会出现一个ZotFile Perferences。目前我偏爱的格式是`[%y][%a]%t`。
+[ZotFile](http://zotfile.com/)是Zotero的一个插件，用于管理附件，功能包括：自动重命名，同步，pdf笔记导出等等。安装方式同上，安装完毕后在Gear Icon下就会出现一个ZotFile Perferences。目前我偏爱的格式是`[%y][%a][%t]`。
 将其Source Folder设置为和Zotero存放附件的目录一样即可。
 
 ### 2. 安装Docear
